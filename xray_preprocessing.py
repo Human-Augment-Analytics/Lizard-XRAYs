@@ -1,5 +1,6 @@
 import argparse
 import cv2
+import matplotlib.pyplot as plt
 import pydicom
 from pydicom.pixel_data_handlers.util import apply_voi_lut
 import numpy as np
@@ -26,19 +27,16 @@ def dcm_to_jpeg(dcm_file_path, jpeg_file_path):
     pil_image.save(jpeg_file_path, 'JPEG')
 
 # Function to enhance image sharpness, contrast and apply Gaussian blur
-def enhance_image(image_path, sharpness=4, contrast=1.3, blur=3):
+def enhance_image(img, sharpness=4, contrast=1.3, blur=3):
     """Enhance image sharpness, contrast, and blur.
 
     Args:
-        image_path (str): Path to the input image.
+        img: Loaded cv2 image.
         output_path (str): Path to save the enhanced image.
         sharpness (float, optional): Sharpness level. Defaults to 4.
         contrast (float, optional): Contrast level. Defaults to 1.3.
         blur (int, optional): Blur level. Defaults to 3.
     """
-
-    # Load the image
-    img = cv2.imread(image_path)
 
     # Convert the image to RGB
     img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
@@ -59,9 +57,6 @@ def enhance_image(image_path, sharpness=4, contrast=1.3, blur=3):
 
     # Apply a small amount of Gaussian blur
     img_enhanced = cv2.GaussianBlur(img_enhanced, (blur, blur), 0)
-
-    # Convert back to PIL Image and save
-    img_enhanced = Image.fromarray(img_enhanced)
 
     return img_enhanced
 
@@ -96,8 +91,13 @@ if __name__ == '__main__':
 
     image = cv2.imread(args.input_path)
 
+    image = enhance_image(image)
     image = clahe(image, args.clip_limit, args.tile_grid_size)
     image = gamma_correction(image, args.gamma)
-    image = enhance_image(image)
 
-    cv2.imwrite(args.output_path, image)
+    plt.plot()
+    plt.title("Processed Image") 
+    plt.imshow(image)
+    plt.show()
+    
+    cv2.imwrite(args.output_path + ".jpg", image)
