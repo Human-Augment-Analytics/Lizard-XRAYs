@@ -1,6 +1,8 @@
 import argparse
 import cv2
+import glob
 import matplotlib.pyplot as plt
+import os
 import pydicom
 from pydicom.pixel_data_handlers.util import apply_voi_lut
 import numpy as np
@@ -78,26 +80,34 @@ def gamma_correction(image, gamma=1.0):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Apply image enhancement techniques to improve XRAY image.')
-    parser.add_argument('input_path', type=str, help='Path to the input image')
-    parser.add_argument('output_path', type=str, help='Path to store the output image')
+    parser.add_argument('input_folder', type=str, help='Path to the folder containing input images')
+    parser.add_argument('output_folder', type=str, help='Path to the folder to store output processed images')
     parser.add_argument('--sharpness', type=float, default=4.0, help='Sharpness level')
     parser.add_argument('--contrast', type=float, default=1.3, help='Contrast level')
     parser.add_argument('--blur', type=int, default=3, help='Blur for Gaussian Blur')
     parser.add_argument('--clip_limit', type=float, default=2.0, help='Clip limit for CLAHE')
     parser.add_argument('--tile_grid_size', type=int, nargs=2, default=(8, 8), help='Tile grid size for CLAHE (two integers)')
     parser.add_argument('--gamma', type=float, default=1.0, help='Gamma for gamma correction')
+    parser.add_argument('--shouldPlotEveryImage', type=bool, default=False, help='Whether to plot and display each image after processing')
 
     args = parser.parse_args()
 
-    image = cv2.imread(args.input_path)
+    for root, dirs, files in os.walk(args.input_folder):
+        jpg_files = glob.glob(os.path.join(root, '*.jpg'))
+        for jpg_file in jpg_files:
+            print("Processing " + jpg_file)
+            image = cv2.imread(jpg_file)
 
-    image = enhance_image(image)
-    image = clahe(image, args.clip_limit, args.tile_grid_size)
-    image = gamma_correction(image, args.gamma)
+            image = enhance_image(image)
+            image = clahe(image, args.clip_limit, args.tile_grid_size)
+            image = gamma_correction(image, args.gamma)
 
-    plt.plot()
-    plt.title("Processed Image") 
-    plt.imshow(image)
-    plt.show()
-    
-    cv2.imwrite(args.output_path + ".jpg", image)
+            if args.shouldPlotEveryImage:
+              plt.plot()
+              plt.title("Processed Image") 
+              plt.imshow(image)
+              plt.show()
+
+            file_name = os.path.basename(jpg_file)
+            output_path = os.path.join(args.output_folder, "processed_" + file_name)
+            cv2.imwrite(output_path, image)
