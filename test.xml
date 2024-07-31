@@ -1,0 +1,1372 @@
+<?xml version="1.0" ?>
+<dataset>
+   <name/>
+   <comment/>
+   <images>
+      <image file="test\processed_June 1st 1_06-01-2024 10_26_59_1-5.jpg">
+         <box top="845" left="251" width="1665" height="1810">
+            <part name="0" x="251" y="1309"/>
+            <part name="1" x="292" y="2153"/>
+            <part name="2" x="1180" y="2655"/>
+            <part name="3" x="1225" y="2526"/>
+            <part name="4" x="1257" y="2414"/>
+            <part name="5" x="1305" y="2276"/>
+            <part name="6" x="1128" y="2527"/>
+            <part name="7" x="1058" y="2394"/>
+            <part name="8" x="1048" y="2276"/>
+            <part name="9" x="1179" y="2427"/>
+            <part name="10" x="1177" y="2333"/>
+            <part name="11" x="1175" y="2238"/>
+            <part name="12" x="1179" y="2148"/>
+            <part name="13" x="1248" y="2076"/>
+            <part name="14" x="1517" y="2043"/>
+            <part name="15" x="1510" y="2265"/>
+            <part name="16" x="1473" y="2441"/>
+            <part name="17" x="1112" y="2075"/>
+            <part name="18" x="831" y="2052"/>
+            <part name="19" x="890" y="2278"/>
+            <part name="20" x="938" y="2445"/>
+            <part name="21" x="1184" y="1446"/>
+            <part name="22" x="1191" y="1341"/>
+            <part name="23" x="1195" y="1268"/>
+            <part name="24" x="1252" y="1340"/>
+            <part name="25" x="1610" y="1289"/>
+            <part name="26" x="1647" y="956"/>
+            <part name="27" x="1916" y="851"/>
+            <part name="28" x="1127" y="1333"/>
+            <part name="29" x="773" y="1305"/>
+            <part name="30" x="795" y="975"/>
+            <part name="31" x="584" y="932"/>
+            <part name="32" x="392" y="845"/>
+         </box>
+      </image>
+      <image file="test\processed_June 1st 1_06-01-2024 11_31_01_1-44.jpg">
+         <box top="653" left="216" width="1684" height="1990">
+            <part name="0" x="216" y="1293"/>
+            <part name="1" x="255" y="2140"/>
+            <part name="2" x="1153" y="2643"/>
+            <part name="3" x="1189" y="2513"/>
+            <part name="4" x="1221" y="2398"/>
+            <part name="5" x="1268" y="2258"/>
+            <part name="6" x="1104" y="2514"/>
+            <part name="7" x="1063" y="2401"/>
+            <part name="8" x="1004" y="2270"/>
+            <part name="9" x="1143" y="2421"/>
+            <part name="10" x="1141" y="2329"/>
+            <part name="11" x="1136" y="2230"/>
+            <part name="12" x="1135" y="2125"/>
+            <part name="13" x="1197" y="2040"/>
+            <part name="14" x="1488" y="2007"/>
+            <part name="15" x="1478" y="2237"/>
+            <part name="16" x="1472" y="2408"/>
+            <part name="17" x="1066" y="2045"/>
+            <part name="18" x="770" y="2017"/>
+            <part name="19" x="770" y="2245"/>
+            <part name="20" x="770" y="2423"/>
+            <part name="21" x="1094" y="1409"/>
+            <part name="22" x="1099" y="1324"/>
+            <part name="23" x="1092" y="1247"/>
+            <part name="24" x="1159" y="1297"/>
+            <part name="25" x="1524" y="1237"/>
+            <part name="26" x="1530" y="899"/>
+            <part name="27" x="1741" y="819"/>
+            <part name="28" x="1900" y="653"/>
+            <part name="29" x="1031" y="1304"/>
+            <part name="30" x="665" y="1253"/>
+            <part name="31" x="666" y="911"/>
+            <part name="32" x="462" y="837"/>
+            <part name="33" x="272" y="701"/>
+         </box>
+      </image>
+      <image file="test\processed_June 1st 1_06-01-2024 11_16_36_1-35.jpg">
+         <box top="751" left="186" width="1641" height="1928">
+            <part name="0" x="186" y="1285"/>
+            <part name="1" x="231" y="2129"/>
+            <part name="2" x="1062" y="2679"/>
+            <part name="3" x="1113" y="2554"/>
+            <part name="4" x="1152" y="2454"/>
+            <part name="5" x="1201" y="2316"/>
+            <part name="6" x="1027" y="2543"/>
+            <part name="7" x="999" y="2449"/>
+            <part name="8" x="959" y="2305"/>
+            <part name="9" x="1074" y="2459"/>
+            <part name="10" x="1083" y="2378"/>
+            <part name="11" x="1083" y="2273"/>
+            <part name="12" x="1086" y="2163"/>
+            <part name="13" x="1161" y="2089"/>
+            <part name="14" x="1434" y="2045"/>
+            <part name="15" x="1450" y="2261"/>
+            <part name="16" x="1454" y="2431"/>
+            <part name="17" x="1023" y="2081"/>
+            <part name="18" x="733" y="2044"/>
+            <part name="19" x="738" y="2258"/>
+            <part name="20" x="722" y="2421"/>
+            <part name="21" x="1103" y="1488"/>
+            <part name="22" x="1101" y="1380"/>
+            <part name="23" x="1100" y="1305"/>
+            <part name="24" x="1165" y="1370"/>
+            <part name="25" x="1524" y="1328"/>
+            <part name="26" x="1486" y="1002"/>
+            <part name="27" x="1679" y="908"/>
+            <part name="28" x="1827" y="751"/>
+            <part name="29" x="1043" y="1378"/>
+            <part name="30" x="687" y="1373"/>
+            <part name="31" x="709" y="1038"/>
+            <part name="32" x="518" y="979"/>
+            <part name="33" x="363" y="817"/>
+         </box>
+      </image>
+      <image file="test\processed_June 1st 1_06-01-2024 11_27_26_1-41.jpg">
+         <box top="658" left="211" width="1675" height="1883">
+            <part name="0" x="211" y="1239"/>
+            <part name="1" x="252" y="2084"/>
+            <part name="2" x="1097" y="2541"/>
+            <part name="3" x="1139" y="2414"/>
+            <part name="4" x="1176" y="2301"/>
+            <part name="5" x="1221" y="2168"/>
+            <part name="6" x="1043" y="2414"/>
+            <part name="7" x="1014" y="2309"/>
+            <part name="8" x="972" y="2171"/>
+            <part name="9" x="1091" y="2326"/>
+            <part name="10" x="1096" y="2226"/>
+            <part name="11" x="1094" y="2129"/>
+            <part name="12" x="1094" y="2051"/>
+            <part name="13" x="1175" y="1973"/>
+            <part name="14" x="1449" y="1934"/>
+            <part name="15" x="1430" y="2157"/>
+            <part name="16" x="1425" y="2332"/>
+            <part name="17" x="1034" y="1960"/>
+            <part name="18" x="781" y="1854"/>
+            <part name="19" x="608" y="1863"/>
+            <part name="20" x="526" y="1973"/>
+            <part name="21" x="1078" y="1352"/>
+            <part name="22" x="1079" y="1240"/>
+            <part name="23" x="1078" y="1165"/>
+            <part name="24" x="1127" y="1241"/>
+            <part name="25" x="1512" y="1216"/>
+            <part name="26" x="1482" y="883"/>
+            <part name="27" x="1701" y="826"/>
+            <part name="28" x="1886" y="702"/>
+            <part name="29" x="1020" y="1241"/>
+            <part name="30" x="650" y="1264"/>
+            <part name="31" x="666" y="923"/>
+            <part name="32" x="465" y="827"/>
+            <part name="33" x="315" y="658"/>
+         </box>
+      </image>
+      <image file="test\processed_June 1st 1_06-01-2024 10_18_37_1-1.jpg">
+         <box top="661" left="239" width="1914" height="2143">
+            <part name="0" x="319" y="1283"/>
+            <part name="1" x="325" y="1972"/>
+            <part name="2" x="1305" y="2804"/>
+            <part name="3" x="1340" y="2656"/>
+            <part name="4" x="1380" y="2546"/>
+            <part name="5" x="1430" y="2372"/>
+            <part name="6" x="1225" y="2668"/>
+            <part name="7" x="1175" y="2563"/>
+            <part name="8" x="1125" y="2394"/>
+            <part name="9" x="1288" y="2570"/>
+            <part name="10" x="1284" y="2451"/>
+            <part name="11" x="1275" y="2362"/>
+            <part name="12" x="1267" y="2265"/>
+            <part name="13" x="1357" y="2175"/>
+            <part name="14" x="1679" y="2144"/>
+            <part name="15" x="1695" y="2397"/>
+            <part name="16" x="1689" y="2631"/>
+            <part name="17" x="1163" y="2190"/>
+            <part name="18" x="838" y="2171"/>
+            <part name="19" x="880" y="2422"/>
+            <part name="20" x="938" y="2654"/>
+            <part name="21" x="1208" y="1449"/>
+            <part name="22" x="1204" y="1322"/>
+            <part name="23" x="1197" y="1239"/>
+            <part name="24" x="1280" y="1316"/>
+            <part name="25" x="1706" y="1267"/>
+            <part name="26" x="1685" y="867"/>
+            <part name="27" x="1916" y="790"/>
+            <part name="28" x="2153" y="661"/>
+            <part name="29" x="1132" y="1329"/>
+            <part name="30" x="690" y="1304"/>
+            <part name="31" x="701" y="908"/>
+            <part name="32" x="469" y="849"/>
+            <part name="33" x="239" y="733"/>
+         </box>
+      </image>
+      <image file="test\processed_June 1st 1_06-01-2024 11_39_02_1-52.jpg">
+         <box top="769" left="227" width="1585" height="1850">
+            <part name="0" x="227" y="1309"/>
+            <part name="1" x="268" y="2157"/>
+            <part name="2" x="1168" y="2619"/>
+            <part name="3" x="1199" y="2498"/>
+            <part name="4" x="1237" y="2405"/>
+            <part name="5" x="1283" y="2272"/>
+            <part name="6" x="1132" y="2498"/>
+            <part name="7" x="1094" y="2405"/>
+            <part name="8" x="1047" y="2278"/>
+            <part name="9" x="1168" y="2421"/>
+            <part name="10" x="1168" y="2340"/>
+            <part name="11" x="1164" y="2245"/>
+            <part name="12" x="1160" y="2155"/>
+            <part name="13" x="1239" y="2083"/>
+            <part name="14" x="1488" y="2073"/>
+            <part name="15" x="1466" y="2264"/>
+            <part name="16" x="1490" y="2438"/>
+            <part name="17" x="1084" y="2076"/>
+            <part name="18" x="845" y="2056"/>
+            <part name="19" x="886" y="2261"/>
+            <part name="20" x="907" y="2430"/>
+            <part name="21" x="1149" y="1501"/>
+            <part name="22" x="1140" y="1410"/>
+            <part name="23" x="1133" y="1340"/>
+            <part name="24" x="1187" y="1388"/>
+            <part name="25" x="1528" y="1324"/>
+            <part name="26" x="1478" y="1036"/>
+            <part name="27" x="1650" y="950"/>
+            <part name="28" x="1812" y="769"/>
+            <part name="29" x="1076" y="1397"/>
+            <part name="30" x="767" y="1405"/>
+            <part name="31" x="778" y="1087"/>
+            <part name="32" x="605" y="1000"/>
+            <part name="33" x="457" y="871"/>
+         </box>
+      </image>
+      <image file="test\processed_June 2nd 1_06-02-2024 11_08_48_1-10.jpg">
+         <box top="922" left="243" width="1711" height="1841">
+            <part name="0" x="243" y="1338"/>
+            <part name="1" x="281" y="2186"/>
+            <part name="2" x="1172" y="2763"/>
+            <part name="3" x="1218" y="2639"/>
+            <part name="4" x="1251" y="2540"/>
+            <part name="5" x="1316" y="2405"/>
+            <part name="6" x="1142" y="2631"/>
+            <part name="7" x="1117" y="2540"/>
+            <part name="8" x="1054" y="2393"/>
+            <part name="9" x="1182" y="2526"/>
+            <part name="10" x="1185" y="2462"/>
+            <part name="11" x="1186" y="2357"/>
+            <part name="12" x="1190" y="2253"/>
+            <part name="13" x="1276" y="2155"/>
+            <part name="14" x="1517" y="2090"/>
+            <part name="15" x="1537" y="2310"/>
+            <part name="16" x="1568" y="2493"/>
+            <part name="17" x="1114" y="2163"/>
+            <part name="18" x="853" y="2142"/>
+            <part name="19" x="872" y="2377"/>
+            <part name="20" x="877" y="2553"/>
+            <part name="21" x="1184" y="1559"/>
+            <part name="22" x="1177" y="1462"/>
+            <part name="23" x="1182" y="1386"/>
+            <part name="24" x="1246" y="1444"/>
+            <part name="25" x="1600" y="1415"/>
+            <part name="26" x="1551" y="1092"/>
+            <part name="27" x="1753" y="1061"/>
+            <part name="28" x="1954" y="922"/>
+            <part name="29" x="1126" y="1450"/>
+            <part name="30" x="772" y="1423"/>
+            <part name="31" x="806" y="1100"/>
+            <part name="32" x="600" y="1067"/>
+            <part name="33" x="385" y="976"/>
+         </box>
+      </image>
+      <image file="test\processed_June 2nd 1_06-02-2024 11_16_39_1-18.jpg">
+         <box top="862" left="266" width="1593" height="1942">
+            <part name="0" x="266" y="1312"/>
+            <part name="1" x="301" y="2160"/>
+            <part name="2" x="1151" y="2804"/>
+            <part name="3" x="1194" y="2686"/>
+            <part name="4" x="1231" y="2582"/>
+            <part name="5" x="1293" y="2468"/>
+            <part name="6" x="1113" y="2686"/>
+            <part name="7" x="1083" y="2576"/>
+            <part name="8" x="1029" y="2462"/>
+            <part name="9" x="1159" y="2606"/>
+            <part name="10" x="1163" y="2501"/>
+            <part name="11" x="1162" y="2416"/>
+            <part name="12" x="1167" y="2280"/>
+            <part name="13" x="1248" y="2192"/>
+            <part name="14" x="1553" y="2171"/>
+            <part name="15" x="1568" y="2427"/>
+            <part name="16" x="1579" y="2618"/>
+            <part name="17" x="1087" y="2207"/>
+            <part name="18" x="782" y="2171"/>
+            <part name="19" x="822" y="2429"/>
+            <part name="20" x="849" y="2622"/>
+            <part name="21" x="1130" y="1540"/>
+            <part name="22" x="1136" y="1450"/>
+            <part name="23" x="1140" y="1375"/>
+            <part name="24" x="1202" y="1437"/>
+            <part name="25" x="1554" y="1429"/>
+            <part name="26" x="1527" y="1097"/>
+            <part name="27" x="1699" y="1032"/>
+            <part name="28" x="1859" y="885"/>
+            <part name="29" x="1073" y="1439"/>
+            <part name="30" x="718" y="1416"/>
+            <part name="31" x="744" y="1087"/>
+            <part name="32" x="568" y="1002"/>
+            <part name="33" x="413" y="862"/>
+         </box>
+      </image>
+      <image file="test\processed_May 16th Miami 1_05-16-2024 13_40_34_1-41.jpg">
+         <box top="876" left="451" width="1189" height="1846">
+            <part name="0" x="451" y="1179"/>
+            <part name="1" x="475" y="2030"/>
+            <part name="2" x="1030" y="2722"/>
+            <part name="3" x="1078" y="2601"/>
+            <part name="4" x="1110" y="2520"/>
+            <part name="5" x="1185" y="2368"/>
+            <part name="6" x="999" y="2598"/>
+            <part name="7" x="976" y="2503"/>
+            <part name="8" x="927" y="2353"/>
+            <part name="9" x="1047" y="2526"/>
+            <part name="10" x="1056" y="2406"/>
+            <part name="11" x="1062" y="2326"/>
+            <part name="12" x="1074" y="2235"/>
+            <part name="13" x="1158" y="2148"/>
+            <part name="14" x="1449" y="2112"/>
+            <part name="15" x="1461" y="2342"/>
+            <part name="16" x="1472" y="2494"/>
+            <part name="17" x="1020" y="2130"/>
+            <part name="18" x="726" y="2081"/>
+            <part name="19" x="723" y="2314"/>
+            <part name="20" x="791" y="2457"/>
+            <part name="21" x="1118" y="1539"/>
+            <part name="22" x="1138" y="1435"/>
+            <part name="23" x="1156" y="1352"/>
+            <part name="24" x="1201" y="1434"/>
+            <part name="25" x="1520" y="1310"/>
+            <part name="26" x="1456" y="1001"/>
+            <part name="27" x="1449" y="966"/>
+            <part name="28" x="1640" y="876"/>
+            <part name="29" x="1085" y="1407"/>
+            <part name="30" x="776" y="1395"/>
+            <part name="31" x="915" y="1114"/>
+         </box>
+      </image>
+      <image file="test\processed_May 16th Miami 1_05-16-2024 11_30_18_1-12.jpg">
+         <box top="642" left="242" width="1665" height="2051">
+            <part name="0" x="242" y="684"/>
+            <part name="1" x="258" y="1538"/>
+            <part name="2" x="1053" y="2693"/>
+            <part name="3" x="1123" y="2559"/>
+            <part name="4" x="1173" y="2456"/>
+            <part name="5" x="1254" y="2328"/>
+            <part name="6" x="1036" y="2541"/>
+            <part name="7" x="1023" y="2430"/>
+            <part name="8" x="1002" y="2296"/>
+            <part name="9" x="1094" y="2466"/>
+            <part name="10" x="1112" y="2373"/>
+            <part name="11" x="1130" y="2274"/>
+            <part name="12" x="1146" y="2185"/>
+            <part name="13" x="1238" y="2086"/>
+            <part name="14" x="1520" y="2061"/>
+            <part name="15" x="1519" y="2286"/>
+            <part name="16" x="1549" y="2493"/>
+            <part name="17" x="1078" y="2071"/>
+            <part name="18" x="801" y="2027"/>
+            <part name="19" x="770" y="2253"/>
+            <part name="20" x="705" y="2427"/>
+            <part name="21" x="1232" y="1460"/>
+            <part name="22" x="1238" y="1337"/>
+            <part name="23" x="1244" y="1270"/>
+            <part name="24" x="1302" y="1340"/>
+            <part name="25" x="1652" y="1274"/>
+            <part name="26" x="1625" y="926"/>
+            <part name="27" x="1798" y="806"/>
+            <part name="28" x="1907" y="642"/>
+            <part name="29" x="1175" y="1335"/>
+            <part name="30" x="823" y="1248"/>
+            <part name="31" x="840" y="903"/>
+            <part name="32" x="648" y="839"/>
+            <part name="33" x="424" y="714"/>
+         </box>
+      </image>
+      <image file="test\processed_May 16th Miami 1_05-16-2024 14_18_34_1-56.jpg">
+         <box top="709" left="510" width="1301" height="1607">
+            <part name="0" x="510" y="1220"/>
+            <part name="1" x="514" y="2070"/>
+            <part name="2" x="1196" y="2316"/>
+            <part name="3" x="1232" y="2195"/>
+            <part name="4" x="1255" y="2114"/>
+            <part name="5" x="1302" y="1990"/>
+            <part name="6" x="1159" y="2195"/>
+            <part name="7" x="1127" y="2106"/>
+            <part name="8" x="1083" y="1996"/>
+            <part name="9" x="1192" y="2123"/>
+            <part name="10" x="1192" y="2034"/>
+            <part name="11" x="1191" y="1945"/>
+            <part name="12" x="1188" y="1889"/>
+            <part name="13" x="1268" y="1793"/>
+            <part name="14" x="1492" y="1848"/>
+            <part name="15" x="1480" y="2035"/>
+            <part name="16" x="1566" y="2171"/>
+            <part name="17" x="1120" y="1795"/>
+            <part name="18" x="884" y="1756"/>
+            <part name="19" x="893" y="1957"/>
+            <part name="20" x="882" y="2112"/>
+            <part name="21" x="1242" y="1250"/>
+            <part name="22" x="1258" y="1135"/>
+            <part name="23" x="1266" y="1063"/>
+            <part name="24" x="1297" y="1148"/>
+            <part name="25" x="1592" y="1134"/>
+            <part name="26" x="1595" y="847"/>
+            <part name="27" x="1768" y="832"/>
+            <part name="28" x="1811" y="817"/>
+            <part name="29" x="1208" y="1133"/>
+            <part name="30" x="911" y="1115"/>
+            <part name="31" x="893" y="825"/>
+            <part name="32" x="730" y="746"/>
+            <part name="33" x="700" y="709"/>
+         </box>
+      </image>
+      <image file="test\processed_May 16th Miami 1_05-16-2024 14_04_50_1-46.jpg">
+         <box top="577" left="482" width="1424" height="2012">
+            <part name="0" x="482" y="1174"/>
+            <part name="1" x="496" y="2024"/>
+            <part name="2" x="1296" y="2589"/>
+            <part name="3" x="1365" y="2409"/>
+            <part name="4" x="1408" y="2307"/>
+            <part name="5" x="1463" y="2204"/>
+            <part name="6" x="1291" y="2383"/>
+            <part name="7" x="1284" y="2314"/>
+            <part name="8" x="1243" y="2169"/>
+            <part name="9" x="1334" y="2332"/>
+            <part name="10" x="1356" y="2225"/>
+            <part name="11" x="1355" y="2142"/>
+            <part name="12" x="1347" y="2061"/>
+            <part name="13" x="1423" y="1976"/>
+            <part name="14" x="1665" y="1889"/>
+            <part name="15" x="1699" y="2059"/>
+            <part name="16" x="1717" y="2207"/>
+            <part name="17" x="1279" y="1960"/>
+            <part name="18" x="1062" y="1840"/>
+            <part name="19" x="969" y="1980"/>
+            <part name="20" x="994" y="2156"/>
+            <part name="21" x="1364" y="1347"/>
+            <part name="22" x="1358" y="1267"/>
+            <part name="23" x="1359" y="1198"/>
+            <part name="24" x="1412" y="1255"/>
+            <part name="25" x="1672" y="1078"/>
+            <part name="26" x="1655" y="808"/>
+            <part name="27" x="1769" y="707"/>
+            <part name="28" x="1906" y="577"/>
+            <part name="29" x="1302" y="1261"/>
+            <part name="30" x="1098" y="1013"/>
+            <part name="31" x="1082" y="760"/>
+            <part name="32" x="924" y="723"/>
+            <part name="33" x="703" y="691"/>
+         </box>
+      </image>
+      <image file="test\processed_May 16th Miami 1_05-16-2024 11_12_01_1-4.jpg">
+         <box top="809" left="306" width="1839" height="1958">
+            <part name="0" x="306" y="947"/>
+            <part name="1" x="311" y="1798"/>
+            <part name="2" x="1342" y="2767"/>
+            <part name="3" x="1337" y="2630"/>
+            <part name="4" x="1363" y="2517"/>
+            <part name="5" x="1337" y="2371"/>
+            <part name="6" x="1261" y="2669"/>
+            <part name="7" x="1182" y="2579"/>
+            <part name="8" x="1091" y="2479"/>
+            <part name="9" x="1274" y="2575"/>
+            <part name="10" x="1232" y="2476"/>
+            <part name="11" x="1207" y="2397"/>
+            <part name="12" x="1176" y="2313"/>
+            <part name="13" x="1250" y="2187"/>
+            <part name="14" x="1511" y="2100"/>
+            <part name="15" x="1535" y="2319"/>
+            <part name="16" x="1513" y="2469"/>
+            <part name="17" x="1092" y="2223"/>
+            <part name="18" x="810" y="2112"/>
+            <part name="19" x="799" y="2332"/>
+            <part name="20" x="841" y="2516"/>
+            <part name="21" x="1192" y="1564"/>
+            <part name="22" x="1195" y="1467"/>
+            <part name="23" x="1197" y="1387"/>
+            <part name="24" x="1258" y="1459"/>
+            <part name="25" x="1593" y="1323"/>
+            <part name="26" x="1703" y="996"/>
+            <part name="27" x="1922" y="972"/>
+            <part name="28" x="2145" y="944"/>
+            <part name="29" x="1137" y="1461"/>
+            <part name="30" x="812" y="1289"/>
+            <part name="31" x="767" y="955"/>
+            <part name="32" x="566" y="881"/>
+            <part name="33" x="339" y="809"/>
+         </box>
+      </image>
+      <image file="test\processed_May 16th Miami 1_05-16-2024 14_14_33_1-54.jpg">
+         <box top="775" left="316" width="1878" height="1985">
+            <part name="0" x="316" y="1058"/>
+            <part name="1" x="326" y="1750"/>
+            <part name="2" x="1168" y="2760"/>
+            <part name="3" x="1237" y="2635"/>
+            <part name="4" x="1286" y="2557"/>
+            <part name="5" x="1386" y="2422"/>
+            <part name="6" x="1157" y="2623"/>
+            <part name="7" x="1148" y="2518"/>
+            <part name="8" x="1117" y="2362"/>
+            <part name="9" x="1218" y="2557"/>
+            <part name="10" x="1239" y="2456"/>
+            <part name="11" x="1258" y="2366"/>
+            <part name="12" x="1276" y="2252"/>
+            <part name="13" x="1374" y="2156"/>
+            <part name="14" x="1678" y="2135"/>
+            <part name="15" x="1709" y="2368"/>
+            <part name="16" x="1698" y="2580"/>
+            <part name="17" x="1191" y="2145"/>
+            <part name="18" x="898" y="2122"/>
+            <part name="19" x="853" y="2369"/>
+            <part name="20" x="826" y="2561"/>
+            <part name="21" x="1349" y="1537"/>
+            <part name="22" x="1359" y="1433"/>
+            <part name="23" x="1359" y="1346"/>
+            <part name="24" x="1420" y="1421"/>
+            <part name="25" x="1787" y="1270"/>
+            <part name="26" x="1747" y="912"/>
+            <part name="27" x="1973" y="907"/>
+            <part name="28" x="2194" y="779"/>
+            <part name="29" x="1294" y="1431"/>
+            <part name="30" x="928" y="1291"/>
+            <part name="31" x="889" y="919"/>
+            <part name="32" x="657" y="858"/>
+            <part name="33" x="424" y="775"/>
+         </box>
+      </image>
+      <image file="test\processed_May 16th Miami 1_05-16-2024 13_19_42_1-35.jpg">
+         <box top="898" left="454" width="1411" height="1790">
+            <part name="0" x="454" y="1286"/>
+            <part name="1" x="461" y="1858"/>
+            <part name="2" x="1282" y="2688"/>
+            <part name="3" x="1296" y="2560"/>
+            <part name="4" x="1314" y="2461"/>
+            <part name="5" x="1346" y="2325"/>
+            <part name="6" x="1225" y="2574"/>
+            <part name="7" x="1178" y="2489"/>
+            <part name="8" x="1105" y="2359"/>
+            <part name="9" x="1246" y="2495"/>
+            <part name="10" x="1237" y="2409"/>
+            <part name="11" x="1217" y="2335"/>
+            <part name="12" x="1215" y="2222"/>
+            <part name="13" x="1297" y="2126"/>
+            <part name="14" x="1550" y="2048"/>
+            <part name="15" x="1571" y="2268"/>
+            <part name="16" x="1577" y="2441"/>
+            <part name="17" x="1146" y="2122"/>
+            <part name="18" x="884" y="2060"/>
+            <part name="19" x="846" y="2261"/>
+            <part name="20" x="854" y="2448"/>
+            <part name="21" x="1232" y="1592"/>
+            <part name="22" x="1226" y="1497"/>
+            <part name="23" x="1223" y="1424"/>
+            <part name="24" x="1286" y="1477"/>
+            <part name="25" x="1577" y="1336"/>
+            <part name="26" x="1616" y="1022"/>
+            <part name="27" x="1803" y="972"/>
+            <part name="28" x="1865" y="898"/>
+            <part name="29" x="1169" y="1484"/>
+            <part name="30" x="835" y="1431"/>
+            <part name="31" x="856" y="1101"/>
+            <part name="32" x="676" y="1040"/>
+            <part name="33" x="554" y="935"/>
+         </box>
+      </image>
+      <image file="test\processed_May 17th 3_05-17-2024 17_42_35_1-18.jpg">
+         <box top="794" left="397" width="1621" height="1779">
+            <part name="0" x="397" y="1226"/>
+            <part name="1" x="406" y="1797"/>
+            <part name="2" x="1295" y="2573"/>
+            <part name="3" x="1320" y="2449"/>
+            <part name="4" x="1350" y="2366"/>
+            <part name="5" x="1406" y="2235"/>
+            <part name="6" x="1256" y="2449"/>
+            <part name="7" x="1221" y="2363"/>
+            <part name="8" x="1155" y="2240"/>
+            <part name="9" x="1288" y="2393"/>
+            <part name="10" x="1286" y="2308"/>
+            <part name="11" x="1282" y="2218"/>
+            <part name="12" x="1283" y="2105"/>
+            <part name="13" x="1353" y="2002"/>
+            <part name="14" x="1622" y="1999"/>
+            <part name="15" x="1620" y="2219"/>
+            <part name="16" x="1596" y="2388"/>
+            <part name="17" x="1194" y="2008"/>
+            <part name="18" x="933" y="2004"/>
+            <part name="19" x="930" y="2226"/>
+            <part name="20" x="948" y="2389"/>
+            <part name="21" x="1266" y="1448"/>
+            <part name="22" x="1254" y="1348"/>
+            <part name="23" x="1247" y="1276"/>
+            <part name="24" x="1316" y="1329"/>
+            <part name="25" x="1665" y="1321"/>
+            <part name="26" x="1655" y="997"/>
+            <part name="27" x="1832" y="930"/>
+            <part name="28" x="2018" y="794"/>
+            <part name="29" x="1189" y="1343"/>
+            <part name="30" x="843" y="1309"/>
+            <part name="31" x="870" y="989"/>
+            <part name="32" x="693" y="958"/>
+            <part name="33" x="477" y="878"/>
+         </box>
+      </image>
+      <image file="test\processed_May 17th 3_05-17-2024 17_24_03_1-8.jpg">
+         <box top="1006" left="400" width="1379" height="1515">
+            <part name="0" x="400" y="1202"/>
+            <part name="1" x="409" y="1773"/>
+            <part name="2" x="1205" y="2521"/>
+            <part name="3" x="1213" y="2389"/>
+            <part name="4" x="1223" y="2317"/>
+            <part name="5" x="1254" y="2195"/>
+            <part name="6" x="1145" y="2403"/>
+            <part name="7" x="1113" y="2331"/>
+            <part name="8" x="1049" y="2230"/>
+            <part name="9" x="1174" y="2339"/>
+            <part name="10" x="1158" y="2274"/>
+            <part name="11" x="1148" y="2192"/>
+            <part name="12" x="1127" y="2114"/>
+            <part name="13" x="1176" y="2018"/>
+            <part name="14" x="1377" y="1926"/>
+            <part name="15" x="1339" y="2109"/>
+            <part name="16" x="1348" y="2256"/>
+            <part name="17" x="1036" y="2028"/>
+            <part name="18" x="811" y="2006"/>
+            <part name="19" x="811" y="2162"/>
+            <part name="20" x="845" y="2331"/>
+            <part name="21" x="1113" y="1497"/>
+            <part name="22" x="1113" y="1394"/>
+            <part name="23" x="1119" y="1314"/>
+            <part name="24" x="1155" y="1400"/>
+            <part name="25" x="1441" y="1355"/>
+            <part name="26" x="1411" y="1084"/>
+            <part name="27" x="1577" y="1059"/>
+            <part name="28" x="1779" y="1006"/>
+            <part name="29" x="1070" y="1394"/>
+            <part name="30" x="776" y="1368"/>
+            <part name="31" x="769" y="1111"/>
+            <part name="32" x="616" y="1079"/>
+            <part name="33" x="411" y="1019"/>
+         </box>
+      </image>
+      <image file="test\processed_May 17th 3_05-17-2024 16_58_24_1-1.jpg">
+         <box top="789" left="214" width="1758" height="1913">
+            <part name="0" x="214" y="1355"/>
+            <part name="1" x="215" y="2206"/>
+            <part name="2" x="1164" y="2702"/>
+            <part name="3" x="1205" y="2559"/>
+            <part name="4" x="1236" y="2461"/>
+            <part name="5" x="1294" y="2321"/>
+            <part name="6" x="1123" y="2557"/>
+            <part name="7" x="1093" y="2456"/>
+            <part name="8" x="1037" y="2324"/>
+            <part name="9" x="1169" y="2472"/>
+            <part name="10" x="1168" y="2383"/>
+            <part name="11" x="1167" y="2285"/>
+            <part name="12" x="1176" y="2202"/>
+            <part name="13" x="1263" y="2112"/>
+            <part name="14" x="1538" y="2094"/>
+            <part name="15" x="1532" y="2296"/>
+            <part name="16" x="1524" y="2460"/>
+            <part name="17" x="1116" y="2088"/>
+            <part name="18" x="855" y="2038"/>
+            <part name="19" x="868" y="2249"/>
+            <part name="20" x="861" y="2424"/>
+            <part name="21" x="1226" y="1505"/>
+            <part name="22" x="1223" y="1412"/>
+            <part name="23" x="1222" y="1330"/>
+            <part name="24" x="1280" y="1409"/>
+            <part name="25" x="1645" y="1345"/>
+            <part name="26" x="1605" y="1023"/>
+            <part name="27" x="1776" y="934"/>
+            <part name="28" x="1972" y="789"/>
+            <part name="29" x="1164" y="1411"/>
+            <part name="30" x="808" y="1364"/>
+            <part name="31" x="827" y="1033"/>
+            <part name="32" x="642" y="965"/>
+            <part name="33" x="471" y="829"/>
+         </box>
+      </image>
+      <image file="test\processed_May 18th 1_05-18-2024 11_58_29_1-41.jpg">
+         <box top="900" left="445" width="1644" height="1779">
+            <part name="0" x="445" y="1196"/>
+            <part name="1" x="447" y="1769"/>
+            <part name="2" x="1322" y="2679"/>
+            <part name="3" x="1350" y="2561"/>
+            <part name="4" x="1383" y="2469"/>
+            <part name="5" x="1441" y="2327"/>
+            <part name="6" x="1284" y="2545"/>
+            <part name="7" x="1250" y="2469"/>
+            <part name="8" x="1178" y="2329"/>
+            <part name="9" x="1314" y="2472"/>
+            <part name="10" x="1315" y="2389"/>
+            <part name="11" x="1307" y="2313"/>
+            <part name="12" x="1310" y="2228"/>
+            <part name="13" x="1387" y="2117"/>
+            <part name="14" x="1658" y="2081"/>
+            <part name="15" x="1669" y="2310"/>
+            <part name="16" x="1709" y="2479"/>
+            <part name="17" x="1214" y="2142"/>
+            <part name="18" x="961" y="2116"/>
+            <part name="19" x="1000" y="2349"/>
+            <part name="20" x="945" y="2514"/>
+            <part name="21" x="1251" y="1536"/>
+            <part name="22" x="1240" y="1432"/>
+            <part name="23" x="1233" y="1351"/>
+            <part name="24" x="1298" y="1420"/>
+            <part name="25" x="1673" y="1409"/>
+            <part name="26" x="1706" y="1066"/>
+            <part name="27" x="1903" y="1043"/>
+            <part name="28" x="2089" y="900"/>
+            <part name="29" x="1177" y="1429"/>
+            <part name="30" x="808" y="1433"/>
+            <part name="31" x="859" y="1093"/>
+            <part name="32" x="665" y="1092"/>
+            <part name="33" x="479" y="951"/>
+         </box>
+      </image>
+      <image file="test\processed_May 18th 1_05-18-2024 10_38_30_1-5.jpg">
+         <box top="570" left="245" width="1729" height="1948">
+            <part name="0" x="250" y="1260"/>
+            <part name="1" x="245" y="2115"/>
+            <part name="2" x="1198" y="2518"/>
+            <part name="3" x="1277" y="2336"/>
+            <part name="4" x="1315" y="2260"/>
+            <part name="5" x="1393" y="2133"/>
+            <part name="6" x="1192" y="2326"/>
+            <part name="7" x="1184" y="2227"/>
+            <part name="8" x="1157" y="2090"/>
+            <part name="9" x="1247" y="2264"/>
+            <part name="10" x="1271" y="2148"/>
+            <part name="11" x="1285" y="2066"/>
+            <part name="12" x="1296" y="1937"/>
+            <part name="13" x="1377" y="1862"/>
+            <part name="14" x="1653" y="1849"/>
+            <part name="15" x="1662" y="2039"/>
+            <part name="16" x="1653" y="2187"/>
+            <part name="17" x="1224" y="1860"/>
+            <part name="18" x="951" y="1861"/>
+            <part name="19" x="917" y="2060"/>
+            <part name="20" x="912" y="2195"/>
+            <part name="21" x="1312" y="1182"/>
+            <part name="22" x="1325" y="1091"/>
+            <part name="23" x="1334" y="986"/>
+            <part name="24" x="1388" y="1069"/>
+            <part name="25" x="1712" y="1081"/>
+            <part name="26" x="1644" y="796"/>
+            <part name="27" x="1811" y="734"/>
+            <part name="28" x="1974" y="599"/>
+            <part name="29" x="1261" y="1067"/>
+            <part name="30" x="941" y="1038"/>
+            <part name="31" x="968" y="746"/>
+            <part name="32" x="796" y="716"/>
+            <part name="33" x="658" y="570"/>
+         </box>
+      </image>
+      <image file="test\processed_May 18th 2_05-18-2024 13_37_52_1-32.jpg">
+         <box top="755" left="348" width="1561" height="1846">
+            <part name="0" x="399" y="1244"/>
+            <part name="1" x="401" y="1819"/>
+            <part name="2" x="1141" y="2601"/>
+            <part name="3" x="1170" y="2468"/>
+            <part name="4" x="1203" y="2380"/>
+            <part name="5" x="1267" y="2240"/>
+            <part name="6" x="1105" y="2475"/>
+            <part name="7" x="1062" y="2383"/>
+            <part name="8" x="998" y="2255"/>
+            <part name="9" x="1135" y="2406"/>
+            <part name="10" x="1136" y="2314"/>
+            <part name="11" x="1131" y="2229"/>
+            <part name="12" x="1125" y="2121"/>
+            <part name="13" x="1220" y="2020"/>
+            <part name="14" x="1482" y="2011"/>
+            <part name="15" x="1466" y="2241"/>
+            <part name="16" x="1430" y="2419"/>
+            <part name="17" x="1045" y="2036"/>
+            <part name="18" x="772" y="2029"/>
+            <part name="19" x="777" y="2256"/>
+            <part name="20" x="767" y="2437"/>
+            <part name="21" x="1115" y="1435"/>
+            <part name="22" x="1114" y="1335"/>
+            <part name="23" x="1110" y="1259"/>
+            <part name="24" x="1180" y="1335"/>
+            <part name="25" x="1528" y="1329"/>
+            <part name="26" x="1531" y="989"/>
+            <part name="27" x="1706" y="896"/>
+            <part name="28" x="1909" y="778"/>
+            <part name="29" x="1051" y="1346"/>
+            <part name="30" x="697" y="1290"/>
+            <part name="31" x="725" y="952"/>
+            <part name="32" x="549" y="861"/>
+            <part name="33" x="348" y="755"/>
+         </box>
+      </image>
+      <image file="test\processed_May 18th 2_05-18-2024 13_08_14_1-18.jpg">
+         <box top="784" left="238" width="1603" height="1774">
+            <part name="0" x="389" y="1262"/>
+            <part name="1" x="395" y="1838"/>
+            <part name="2" x="1100" y="2558"/>
+            <part name="3" x="1129" y="2433"/>
+            <part name="4" x="1162" y="2342"/>
+            <part name="5" x="1227" y="2206"/>
+            <part name="6" x="1062" y="2431"/>
+            <part name="7" x="1025" y="2349"/>
+            <part name="8" x="955" y="2214"/>
+            <part name="9" x="1090" y="2362"/>
+            <part name="10" x="1090" y="2290"/>
+            <part name="11" x="1085" y="2188"/>
+            <part name="12" x="1084" y="2097"/>
+            <part name="13" x="1168" y="1997"/>
+            <part name="14" x="1447" y="1981"/>
+            <part name="15" x="1458" y="2193"/>
+            <part name="16" x="1481" y="2391"/>
+            <part name="17" x="1009" y="1986"/>
+            <part name="18" x="734" y="1972"/>
+            <part name="19" x="735" y="2196"/>
+            <part name="20" x="801" y="2383"/>
+            <part name="21" x="1096" y="1453"/>
+            <part name="22" x="1098" y="1351"/>
+            <part name="23" x="1092" y="1286"/>
+            <part name="24" x="1143" y="1350"/>
+            <part name="25" x="1494" y="1302"/>
+            <part name="26" x="1444" y="966"/>
+            <part name="27" x="1633" y="896"/>
+            <part name="28" x="1841" y="784"/>
+            <part name="29" x="1039" y="1348"/>
+            <part name="30" x="679" y="1328"/>
+            <part name="31" x="669" y="981"/>
+            <part name="32" x="459" y="943"/>
+            <part name="33" x="238" y="911"/>
+         </box>
+      </image>
+      <image file="test\processed_May 18th 2_05-18-2024 14_19_25_1-56.jpg">
+         <box top="1022" left="280" width="1655" height="1744">
+            <part name="0" x="287" y="1242"/>
+            <part name="1" x="280" y="2095"/>
+            <part name="2" x="1158" y="2766"/>
+            <part name="3" x="1208" y="2635"/>
+            <part name="4" x="1235" y="2561"/>
+            <part name="5" x="1295" y="2442"/>
+            <part name="6" x="1138" y="2633"/>
+            <part name="7" x="1113" y="2546"/>
+            <part name="8" x="1077" y="2430"/>
+            <part name="9" x="1179" y="2566"/>
+            <part name="10" x="1179" y="2505"/>
+            <part name="11" x="1190" y="2395"/>
+            <part name="12" x="1185" y="2315"/>
+            <part name="13" x="1252" y="2216"/>
+            <part name="14" x="1483" y="2192"/>
+            <part name="15" x="1480" y="2372"/>
+            <part name="16" x="1478" y="2533"/>
+            <part name="17" x="1113" y="2215"/>
+            <part name="18" x="878" y="2166"/>
+            <part name="19" x="880" y="2343"/>
+            <part name="20" x="927" y="2500"/>
+            <part name="21" x="1219" y="1640"/>
+            <part name="22" x="1220" y="1533"/>
+            <part name="23" x="1225" y="1468"/>
+            <part name="24" x="1276" y="1536"/>
+            <part name="25" x="1582" y="1504"/>
+            <part name="26" x="1559" y="1190"/>
+            <part name="27" x="1730" y="1155"/>
+            <part name="28" x="1935" y="1024"/>
+            <part name="29" x="1166" y="1528"/>
+            <part name="30" x="860" y="1493"/>
+            <part name="31" x="912" y="1216"/>
+            <part name="32" x="736" y="1154"/>
+            <part name="33" x="538" y="1022"/>
+         </box>
+      </image>
+      <image file="test\processed_May 18th 2_05-18-2024 13_01_04_1-14.jpg">
+         <box top="835" left="310" width="1588" height="1764">
+            <part name="0" x="310" y="1236"/>
+            <part name="1" x="311" y="2086"/>
+            <part name="2" x="1216" y="2599"/>
+            <part name="3" x="1237" y="2462"/>
+            <part name="4" x="1259" y="2367"/>
+            <part name="5" x="1296" y="2222"/>
+            <part name="6" x="1162" y="2474"/>
+            <part name="7" x="1117" y="2383"/>
+            <part name="8" x="1039" y="2251"/>
+            <part name="9" x="1186" y="2384"/>
+            <part name="10" x="1177" y="2312"/>
+            <part name="11" x="1168" y="2202"/>
+            <part name="12" x="1156" y="2108"/>
+            <part name="13" x="1231" y="2006"/>
+            <part name="14" x="1501" y="1951"/>
+            <part name="15" x="1541" y="2167"/>
+            <part name="16" x="1553" y="2339"/>
+            <part name="17" x="1072" y="2011"/>
+            <part name="18" x="802" y="1990"/>
+            <part name="19" x="833" y="2206"/>
+            <part name="20" x="931" y="2338"/>
+            <part name="21" x="1159" y="1447"/>
+            <part name="22" x="1155" y="1347"/>
+            <part name="23" x="1162" y="1258"/>
+            <part name="24" x="1220" y="1346"/>
+            <part name="25" x="1580" y="1339"/>
+            <part name="26" x="1509" y="1022"/>
+            <part name="27" x="1696" y="934"/>
+            <part name="28" x="1898" y="848"/>
+            <part name="29" x="1094" y="1336"/>
+            <part name="30" x="740" y="1300"/>
+            <part name="31" x="793" y="982"/>
+            <part name="32" x="597" y="947"/>
+            <part name="33" x="416" y="835"/>
+         </box>
+      </image>
+      <image file="test\processed_May 18th 2_05-18-2024 13_28_39_1-28.jpg">
+         <box top="1072" left="285" width="1651" height="1677">
+            <part name="0" x="285" y="1282"/>
+            <part name="1" x="310" y="1975"/>
+            <part name="2" x="1175" y="2749"/>
+            <part name="3" x="1223" y="2631"/>
+            <part name="4" x="1256" y="2555"/>
+            <part name="5" x="1318" y="2430"/>
+            <part name="6" x="1148" y="2636"/>
+            <part name="7" x="1128" y="2534"/>
+            <part name="8" x="1089" y="2424"/>
+            <part name="9" x="1195" y="2553"/>
+            <part name="10" x="1197" y="2477"/>
+            <part name="11" x="1210" y="2397"/>
+            <part name="12" x="1211" y="2302"/>
+            <part name="13" x="1287" y="2223"/>
+            <part name="14" x="1508" y="2158"/>
+            <part name="15" x="1519" y="2371"/>
+            <part name="16" x="1462" y="2529"/>
+            <part name="17" x="1131" y="2225"/>
+            <part name="18" x="897" y="2178"/>
+            <part name="19" x="905" y="2389"/>
+            <part name="20" x="915" y="2560"/>
+            <part name="21" x="1198" y="1700"/>
+            <part name="22" x="1199" y="1607"/>
+            <part name="23" x="1202" y="1555"/>
+            <part name="24" x="1250" y="1612"/>
+            <part name="25" x="1574" y="1557"/>
+            <part name="26" x="1558" y="1240"/>
+            <part name="27" x="1743" y="1204"/>
+            <part name="28" x="1936" y="1072"/>
+            <part name="29" x="1146" y="1604"/>
+            <part name="30" x="827" y="1570"/>
+            <part name="31" x="840" y="1260"/>
+            <part name="32" x="654" y="1202"/>
+            <part name="33" x="471" y="1073"/>
+         </box>
+      </image>
+      <image file="test\processed_May 18th 2_05-18-2024 12_51_31_1-11.jpg">
+         <box top="723" left="287" width="1676" height="1962">
+            <part name="0" x="287" y="1235"/>
+            <part name="1" x="312" y="1930"/>
+            <part name="2" x="1350" y="2685"/>
+            <part name="3" x="1377" y="2544"/>
+            <part name="4" x="1399" y="2460"/>
+            <part name="5" x="1458" y="2312"/>
+            <part name="6" x="1304" y="2554"/>
+            <part name="7" x="1265" y="2455"/>
+            <part name="8" x="1204" y="2328"/>
+            <part name="9" x="1340" y="2488"/>
+            <part name="10" x="1336" y="2393"/>
+            <part name="11" x="1326" y="2292"/>
+            <part name="12" x="1320" y="2190"/>
+            <part name="13" x="1400" y="2086"/>
+            <part name="14" x="1649" y="2027"/>
+            <part name="15" x="1682" y="2260"/>
+            <part name="16" x="1668" y="2434"/>
+            <part name="17" x="1226" y="2096"/>
+            <part name="18" x="975" y="2043"/>
+            <part name="19" x="984" y="2265"/>
+            <part name="20" x="1024" y="2467"/>
+            <part name="21" x="1282" y="1507"/>
+            <part name="22" x="1271" y="1414"/>
+            <part name="23" x="1257" y="1340"/>
+            <part name="24" x="1327" y="1390"/>
+            <part name="25" x="1665" y="1281"/>
+            <part name="26" x="1579" y="958"/>
+            <part name="27" x="1768" y="874"/>
+            <part name="28" x="1963" y="723"/>
+            <part name="29" x="1215" y="1408"/>
+            <part name="30" x="857" y="1369"/>
+            <part name="31" x="811" y="1031"/>
+            <part name="32" x="606" y="974"/>
+            <part name="33" x="408" y="857"/>
+         </box>
+      </image>
+      <image file="test\processed_May 18th 2_05-18-2024 12_47_44_1-8.jpg">
+         <box top="612" left="286" width="1557" height="2092">
+            <part name="0" x="286" y="1076"/>
+            <part name="1" x="286" y="1925"/>
+            <part name="2" x="1209" y="2704"/>
+            <part name="3" x="1241" y="2568"/>
+            <part name="4" x="1270" y="2457"/>
+            <part name="5" x="1323" y="2314"/>
+            <part name="6" x="1161" y="2573"/>
+            <part name="7" x="1116" y="2472"/>
+            <part name="8" x="1045" y="2334"/>
+            <part name="9" x="1197" y="2495"/>
+            <part name="10" x="1186" y="2393"/>
+            <part name="11" x="1181" y="2292"/>
+            <part name="12" x="1184" y="2217"/>
+            <part name="13" x="1272" y="2102"/>
+            <part name="14" x="1547" y="2053"/>
+            <part name="15" x="1523" y="2293"/>
+            <part name="16" x="1504" y="2471"/>
+            <part name="17" x="1111" y="2096"/>
+            <part name="18" x="832" y="2051"/>
+            <part name="19" x="860" y="2290"/>
+            <part name="20" x="913" y="2474"/>
+            <part name="21" x="1241" y="1482"/>
+            <part name="22" x="1254" y="1375"/>
+            <part name="23" x="1255" y="1295"/>
+            <part name="24" x="1323" y="1369"/>
+            <part name="25" x="1679" y="1260"/>
+            <part name="26" x="1586" y="916"/>
+            <part name="27" x="1789" y="843"/>
+            <part name="28" x="1843" y="612"/>
+            <part name="29" x="1185" y="1368"/>
+            <part name="30" x="815" y="1301"/>
+            <part name="31" x="828" y="951"/>
+            <part name="32" x="630" y="885"/>
+            <part name="33" x="400" y="820"/>
+         </box>
+      </image>
+      <image file="test\processed_May 18th 3_05-18-2024 17_24_32_1-59.jpg">
+         <box top="849" left="201" width="1627" height="1797">
+            <part name="0" x="201" y="1241"/>
+            <part name="1" x="236" y="1811"/>
+            <part name="2" x="1134" y="2646"/>
+            <part name="3" x="1177" y="2498"/>
+            <part name="4" x="1206" y="2415"/>
+            <part name="5" x="1269" y="2269"/>
+            <part name="6" x="1099" y="2505"/>
+            <part name="7" x="1062" y="2418"/>
+            <part name="8" x="999" y="2271"/>
+            <part name="9" x="1138" y="2440"/>
+            <part name="10" x="1137" y="2362"/>
+            <part name="11" x="1136" y="2261"/>
+            <part name="12" x="1135" y="2199"/>
+            <part name="13" x="1219" y="2098"/>
+            <part name="14" x="1499" y="2099"/>
+            <part name="15" x="1478" y="2323"/>
+            <part name="16" x="1422" y="2486"/>
+            <part name="17" x="1053" y="2081"/>
+            <part name="18" x="776" y="2075"/>
+            <part name="19" x="812" y="2295"/>
+            <part name="20" x="843" y="2457"/>
+            <part name="21" x="1172" y="1518"/>
+            <part name="22" x="1176" y="1394"/>
+            <part name="23" x="1176" y="1314"/>
+            <part name="24" x="1238" y="1388"/>
+            <part name="25" x="1609" y="1342"/>
+            <part name="26" x="1509" y="1027"/>
+            <part name="27" x="1677" y="938"/>
+            <part name="28" x="1828" y="849"/>
+            <part name="29" x="1114" y="1384"/>
+            <part name="30" x="744" y="1390"/>
+            <part name="31" x="749" y="1070"/>
+            <part name="32" x="563" y="991"/>
+            <part name="33" x="371" y="890"/>
+         </box>
+      </image>
+      <image file="test\processed_May 18th 3_05-18-2024 15_44_27_1-5.jpg">
+         <box top="678" left="420" width="1514" height="1746">
+            <part name="0" x="423" y="1208"/>
+            <part name="1" x="420" y="1781"/>
+            <part name="2" x="1224" y="2424"/>
+            <part name="3" x="1266" y="2284"/>
+            <part name="4" x="1304" y="2204"/>
+            <part name="5" x="1359" y="2069"/>
+            <part name="6" x="1186" y="2285"/>
+            <part name="7" x="1159" y="2194"/>
+            <part name="8" x="1103" y="2060"/>
+            <part name="9" x="1228" y="2210"/>
+            <part name="10" x="1228" y="2133"/>
+            <part name="11" x="1230" y="2051"/>
+            <part name="12" x="1232" y="1947"/>
+            <part name="13" x="1310" y="1857"/>
+            <part name="14" x="1570" y="1848"/>
+            <part name="15" x="1559" y="2057"/>
+            <part name="16" x="1496" y="2216"/>
+            <part name="17" x="1156" y="1861"/>
+            <part name="18" x="903" y="1829"/>
+            <part name="19" x="903" y="2034"/>
+            <part name="20" x="880" y="2217"/>
+            <part name="21" x="1220" y="1285"/>
+            <part name="22" x="1224" y="1180"/>
+            <part name="23" x="1221" y="1113"/>
+            <part name="24" x="1284" y="1185"/>
+            <part name="25" x="1615" y="1155"/>
+            <part name="26" x="1590" y="845"/>
+            <part name="27" x="1764" y="791"/>
+            <part name="28" x="1934" y="678"/>
+            <part name="29" x="1167" y="1182"/>
+            <part name="30" x="827" y="1133"/>
+            <part name="31" x="847" y="840"/>
+            <part name="32" x="653" y="803"/>
+            <part name="33" x="463" y="764"/>
+         </box>
+      </image>
+      <image file="test\processed_May 18th 3_05-18-2024 15_53_23_1-10.jpg">
+         <box top="867" left="383" width="1581" height="1741">
+            <part name="0" x="413" y="1262"/>
+            <part name="1" x="429" y="1834"/>
+            <part name="2" x="1190" y="2608"/>
+            <part name="3" x="1224" y="2490"/>
+            <part name="4" x="1246" y="2409"/>
+            <part name="5" x="1303" y="2275"/>
+            <part name="6" x="1155" y="2491"/>
+            <part name="7" x="1122" y="2408"/>
+            <part name="8" x="1064" y="2278"/>
+            <part name="9" x="1188" y="2425"/>
+            <part name="10" x="1188" y="2348"/>
+            <part name="11" x="1184" y="2255"/>
+            <part name="12" x="1178" y="2151"/>
+            <part name="13" x="1270" y="2045"/>
+            <part name="14" x="1518" y="2050"/>
+            <part name="15" x="1528" y="2268"/>
+            <part name="16" x="1538" y="2449"/>
+            <part name="17" x="1087" y="2079"/>
+            <part name="18" x="843" y="2066"/>
+            <part name="19" x="856" y="2278"/>
+            <part name="20" x="846" y="2456"/>
+            <part name="21" x="1218" y="1504"/>
+            <part name="22" x="1215" y="1414"/>
+            <part name="23" x="1216" y="1344"/>
+            <part name="24" x="1270" y="1409"/>
+            <part name="25" x="1617" y="1362"/>
+            <part name="26" x="1579" y="1041"/>
+            <part name="27" x="1770" y="984"/>
+            <part name="28" x="1964" y="867"/>
+            <part name="29" x="1163" y="1410"/>
+            <part name="30" x="811" y="1363"/>
+            <part name="31" x="762" y="1049"/>
+            <part name="32" x="572" y="1020"/>
+            <part name="33" x="383" y="914"/>
+         </box>
+      </image>
+      <image file="test\processed_May 18th 3_05-18-2024 16_02_18_1-14.jpg">
+         <box top="634" left="286" width="1774" height="1734">
+            <part name="0" x="286" y="1174"/>
+            <part name="1" x="290" y="2023"/>
+            <part name="2" x="1279" y="2368"/>
+            <part name="3" x="1314" y="2236"/>
+            <part name="4" x="1334" y="2140"/>
+            <part name="5" x="1385" y="2012"/>
+            <part name="6" x="1232" y="2239"/>
+            <part name="7" x="1200" y="2144"/>
+            <part name="8" x="1134" y="2023"/>
+            <part name="9" x="1265" y="2162"/>
+            <part name="10" x="1265" y="2068"/>
+            <part name="11" x="1258" y="1976"/>
+            <part name="12" x="1257" y="1884"/>
+            <part name="13" x="1338" y="1781"/>
+            <part name="14" x="1586" y="1759"/>
+            <part name="15" x="1574" y="1986"/>
+            <part name="16" x="1592" y="2135"/>
+            <part name="17" x="1180" y="1773"/>
+            <part name="18" x="935" y="1726"/>
+            <part name="19" x="904" y="1940"/>
+            <part name="20" x="925" y="2101"/>
+            <part name="21" x="1283" y="1188"/>
+            <part name="22" x="1285" y="1109"/>
+            <part name="23" x="1291" y="1041"/>
+            <part name="24" x="1342" y="1112"/>
+            <part name="25" x="1686" y="1096"/>
+            <part name="26" x="1692" y="790"/>
+            <part name="27" x="1881" y="758"/>
+            <part name="28" x="2060" y="638"/>
+            <part name="29" x="1229" y="1100"/>
+            <part name="30" x="890" y="1113"/>
+            <part name="31" x="874" y="808"/>
+            <part name="32" x="695" y="764"/>
+            <part name="33" x="520" y="634"/>
+         </box>
+      </image>
+      <image file="test\processed_May 18th 3_05-18-2024 15_49_42_1-8.jpg">
+         <box top="647" left="306" width="1541" height="1901">
+            <part name="0" x="314" y="1083"/>
+            <part name="1" x="306" y="1930"/>
+            <part name="2" x="968" y="2548"/>
+            <part name="3" x="1028" y="2411"/>
+            <part name="4" x="1067" y="2310"/>
+            <part name="5" x="1127" y="2189"/>
+            <part name="6" x="942" y="2400"/>
+            <part name="7" x="920" y="2298"/>
+            <part name="8" x="878" y="2168"/>
+            <part name="9" x="994" y="2327"/>
+            <part name="10" x="998" y="2234"/>
+            <part name="11" x="1005" y="2138"/>
+            <part name="12" x="1013" y="2046"/>
+            <part name="13" x="1103" y="1962"/>
+            <part name="14" x="1383" y="1901"/>
+            <part name="15" x="1376" y="2129"/>
+            <part name="16" x="1339" y="2302"/>
+            <part name="17" x="955" y="1945"/>
+            <part name="18" x="694" y="1846"/>
+            <part name="19" x="659" y="2073"/>
+            <part name="20" x="648" y="2248"/>
+            <part name="21" x="1099" y="1362"/>
+            <part name="22" x="1100" y="1254"/>
+            <part name="23" x="1096" y="1176"/>
+            <part name="24" x="1166" y="1249"/>
+            <part name="25" x="1520" y="1154"/>
+            <part name="26" x="1448" y="825"/>
+            <part name="27" x="1643" y="775"/>
+            <part name="28" x="1847" y="657"/>
+            <part name="29" x="1037" y="1248"/>
+            <part name="30" x="684" y="1179"/>
+            <part name="31" x="713" y="841"/>
+            <part name="32" x="511" y="784"/>
+            <part name="33" x="335" y="647"/>
+         </box>
+      </image>
+      <image file="test\processed_May 18th 3_05-18-2024 17_37_25_1-66.jpg">
+         <box top="638" left="288" width="1583" height="2080">
+            <part name="0" x="293" y="1180"/>
+            <part name="1" x="288" y="2029"/>
+            <part name="2" x="1032" y="2718"/>
+            <part name="3" x="1076" y="2576"/>
+            <part name="4" x="1111" y="2475"/>
+            <part name="5" x="1172" y="2339"/>
+            <part name="6" x="999" y="2581"/>
+            <part name="7" x="962" y="2474"/>
+            <part name="8" x="907" y="2333"/>
+            <part name="9" x="1038" y="2500"/>
+            <part name="10" x="1038" y="2400"/>
+            <part name="11" x="1039" y="2294"/>
+            <part name="12" x="1035" y="2203"/>
+            <part name="13" x="1111" y="2119"/>
+            <part name="14" x="1395" y="2109"/>
+            <part name="15" x="1377" y="2338"/>
+            <part name="16" x="1379" y="2512"/>
+            <part name="17" x="957" y="2108"/>
+            <part name="18" x="685" y="2067"/>
+            <part name="19" x="672" y="2298"/>
+            <part name="20" x="642" y="2470"/>
+            <part name="21" x="1092" y="1531"/>
+            <part name="22" x="1104" y="1428"/>
+            <part name="23" x="1117" y="1352"/>
+            <part name="24" x="1171" y="1435"/>
+            <part name="25" x="1529" y="1371"/>
+            <part name="26" x="1500" y="1046"/>
+            <part name="27" x="1686" y="957"/>
+            <part name="28" x="1871" y="797"/>
+            <part name="29" x="1047" y="1409"/>
+            <part name="30" x="692" y="1306"/>
+            <part name="31" x="685" y="984"/>
+            <part name="32" x="515" y="870"/>
+            <part name="33" x="476" y="638"/>
+         </box>
+      </image>
+      <image file="test\processed_May 18th 3_05-18-2024 17_27_57_1-61.jpg">
+         <box top="771" left="182" width="1728" height="1858">
+            <part name="0" x="182" y="1248"/>
+            <part name="1" x="204" y="1820"/>
+            <part name="2" x="1211" y="2629"/>
+            <part name="3" x="1268" y="2492"/>
+            <part name="4" x="1309" y="2416"/>
+            <part name="5" x="1360" y="2284"/>
+            <part name="6" x="1185" y="2507"/>
+            <part name="7" x="1152" y="2395"/>
+            <part name="8" x="1117" y="2281"/>
+            <part name="9" x="1231" y="2432"/>
+            <part name="10" x="1230" y="2346"/>
+            <part name="11" x="1248" y="2264"/>
+            <part name="12" x="1252" y="2162"/>
+            <part name="13" x="1328" y="2057"/>
+            <part name="14" x="1585" y="2019"/>
+            <part name="15" x="1576" y="2230"/>
+            <part name="16" x="1540" y="2404"/>
+            <part name="17" x="1168" y="2072"/>
+            <part name="18" x="914" y="2052"/>
+            <part name="19" x="938" y="2263"/>
+            <part name="20" x="957" y="2428"/>
+            <part name="21" x="1232" y="1512"/>
+            <part name="22" x="1226" y="1403"/>
+            <part name="23" x="1223" y="1326"/>
+            <part name="24" x="1268" y="1400"/>
+            <part name="25" x="1619" y="1374"/>
+            <part name="26" x="1596" y="1055"/>
+            <part name="27" x="1767" y="947"/>
+            <part name="28" x="1910" y="771"/>
+            <part name="29" x="1172" y="1406"/>
+            <part name="30" x="831" y="1399"/>
+            <part name="31" x="836" y="1076"/>
+            <part name="32" x="648" y="1014"/>
+            <part name="33" x="471" y="864"/>
+         </box>
+      </image>
+      <image file="test\processed_May 19th 4_05-19-2024 17_00_41_1-10.jpg">
+         <box top="742" left="179" width="1740" height="1693">
+            <part name="0" x="179" y="1210"/>
+            <part name="1" x="199" y="1782"/>
+            <part name="2" x="1197" y="2435"/>
+            <part name="3" x="1230" y="2314"/>
+            <part name="4" x="1259" y="2226"/>
+            <part name="5" x="1317" y="2097"/>
+            <part name="6" x="1159" y="2318"/>
+            <part name="7" x="1122" y="2229"/>
+            <part name="8" x="1057" y="2101"/>
+            <part name="9" x="1195" y="2245"/>
+            <part name="10" x="1190" y="2167"/>
+            <part name="11" x="1187" y="2077"/>
+            <part name="12" x="1191" y="1969"/>
+            <part name="13" x="1272" y="1874"/>
+            <part name="14" x="1530" y="1858"/>
+            <part name="15" x="1526" y="2060"/>
+            <part name="16" x="1499" y="2238"/>
+            <part name="17" x="1109" y="1874"/>
+            <part name="18" x="850" y="1879"/>
+            <part name="19" x="859" y="2092"/>
+            <part name="20" x="868" y="2254"/>
+            <part name="21" x="1148" y="1330"/>
+            <part name="22" x="1147" y="1237"/>
+            <part name="23" x="1143" y="1153"/>
+            <part name="24" x="1212" y="1220"/>
+            <part name="25" x="1546" y="1246"/>
+            <part name="26" x="1532" y="941"/>
+            <part name="27" x="1696" y="882"/>
+            <part name="28" x="1919" y="774"/>
+            <part name="29" x="1085" y="1228"/>
+            <part name="30" x="751" y="1256"/>
+            <part name="31" x="747" y="943"/>
+            <part name="32" x="566" y="896"/>
+            <part name="33" x="410" y="742"/>
+         </box>
+      </image>
+      <image file="test\processed_May 19th 4_05-19-2024 16_57_00_1-8.jpg">
+         <box top="736" left="190" width="1623" height="1835">
+            <part name="0" x="190" y="1298"/>
+            <part name="1" x="214" y="1868"/>
+            <part name="2" x="1151" y="2571"/>
+            <part name="3" x="1180" y="2435"/>
+            <part name="4" x="1216" y="2335"/>
+            <part name="5" x="1264" y="2205"/>
+            <part name="6" x="1110" y="2417"/>
+            <part name="7" x="1078" y="2344"/>
+            <part name="8" x="1002" y="2211"/>
+            <part name="9" x="1140" y="2363"/>
+            <part name="10" x="1128" y="2289"/>
+            <part name="11" x="1129" y="2192"/>
+            <part name="12" x="1127" y="2090"/>
+            <part name="13" x="1221" y="1987"/>
+            <part name="14" x="1494" y="1974"/>
+            <part name="15" x="1471" y="2201"/>
+            <part name="16" x="1440" y="2389"/>
+            <part name="17" x="1060" y="1989"/>
+            <part name="18" x="782" y="1968"/>
+            <part name="19" x="775" y="2193"/>
+            <part name="20" x="775" y="2379"/>
+            <part name="21" x="1084" y="1404"/>
+            <part name="22" x="1066" y="1302"/>
+            <part name="23" x="1053" y="1236"/>
+            <part name="24" x="1134" y="1290"/>
+            <part name="25" x="1487" y="1252"/>
+            <part name="26" x="1437" y="916"/>
+            <part name="27" x="1631" y="883"/>
+            <part name="28" x="1813" y="736"/>
+            <part name="29" x="1003" y="1303"/>
+            <part name="30" x="653" y="1269"/>
+            <part name="31" x="653" y="931"/>
+            <part name="32" x="457" y="920"/>
+            <part name="33" x="256" y="823"/>
+         </box>
+      </image>
+   </images>
+</dataset>
