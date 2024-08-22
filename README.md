@@ -17,7 +17,7 @@ The second script does not work as well at this time and is still under developm
 
 #### Annotating Data
 
-The first step for automated landmarking is to actually produce annotations for the x-rays. This step was performed by Jon Suh and an undergraduate assistant in the Suh lab. They used tpsdig to annotate each x-ray image and produce .tps files. They provided me with a Dropbox folder containing the tps files, which can be found [here](https://www.dropbox.com/scl/fo/t77q0baokmb2zj2i2vs0a/AGJQ4FI9111QjSOxewEccao?rlkey=bt1hwxqqg9ue2k5iakcfasz7g&dl=0).
+The first step for automated landmarking is to actually produce annotations for the x-rays. This step was performed by Jon Suh and an undergraduate assistant in the Stroud lab. They used tpsdig to annotate each x-ray image and produce .tps files. They provided me with a Dropbox folder containing the tps files, which can be found [here](https://www.dropbox.com/scl/fo/t77q0baokmb2zj2i2vs0a/AGJQ4FI9111QjSOxewEccao?rlkey=bt1hwxqqg9ue2k5iakcfasz7g&dl=0).
 
 After obtaining tps files for each x-ray, I produced a combined tps file with all the data. This is a requirement for input into `ml-morph`. My script for performing this combination can be found [here](https://github.com/Human-Augment-Analytics/Lizard-x-rays/blob/main/combine_tps_files.py).
 
