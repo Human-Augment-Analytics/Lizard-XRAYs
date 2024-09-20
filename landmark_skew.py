@@ -6,9 +6,6 @@ from collections import defaultdict
 import matplotlib.pyplot as plt
 from scipy.stats import gaussian_kde
 
-
-# maps to test to output
-# maps ground truth landmark number to model output landmark number
 test_to_output_map = {
 0: 0,
 1: 1,
@@ -45,7 +42,6 @@ test_to_output_map = {
 32: 26,
 33: 27
 }
-
 def parse_xml(file_path):
     tree = ET.parse(file_path)
     root = tree.getroot()
@@ -63,7 +59,6 @@ def parse_xml(file_path):
             parts[part_name] = (x, y)
         
         data[image_file] = parts
-    
     return data
 
 def calcuate_ruler_length(testData):
@@ -82,14 +77,16 @@ def calcuate_ruler_length(testData):
         diff = np.sqrt(diff_x**2 + diff_y**2)
         distances.append(diff)
     return distances
+    
 def calculate_differences(outputData, testData):
     # calculate difference between ground truth and test for each landmark
     differencesMap = defaultdict(list)
     Lengths = defaultdict(list)
-
+    
     for image_file, output_parts in outputData.items():
-        if image_file in testData:
-            test_parts = testData[image_file]
+        print(output_parts)
+        if image_file.replace('./', '') in testData:
+            test_parts = testData[image_file.replace('./', '')]
             for test_part_name, test_coords in test_parts.items():
                 if test_part_name in test_to_output_map:
                     output_part_name = test_to_output_map[test_part_name]
@@ -112,22 +109,22 @@ def main(output_xml, test_xml, landmark):
     # Parse the XML files
     output_data = parse_xml(output_xml)
     test_data = parse_xml(test_xml)
-
     ruler_length = calcuate_ruler_length(test_data)
-    
-    # Calculate the differences between corresponding landmarks
-    differencesMap, lengths = calculate_differences(output_data, test_data)
-    
-    x_diff = []
-    y_diff = []
-    landmark_error = []
-    for i in range(len(differencesMap.keys())):
-        x_diff.append(differencesMap[i][landmark][0] * float(27 / ruler_length[i]))
-        y_diff.append(differencesMap[i][landmark][1] * float(27 / ruler_length[i]))
-        landmark_error.append(lengths[i][landmark] * float(27 / ruler_length[i]))
-    data = np.vstack([x_diff, y_diff])
+    length = []
+    x_coords = []
+    y_coords = []
+    i = 0
+    print("./" + list(test_data.keys())[0])
+    for i in range(len(test_data.keys())):
+        diff_x = test_data[list(test_data.keys())[i]][landmark][0] - output_data["./" + list(test_data.keys())[i]][landmark][0]
+        x_coords.append(diff_x * float(27 / ruler_length[i]))
+        diff_y = test_data[list(test_data.keys())[i]][landmark][1] - output_data["./" + list(test_data.keys())[i]][landmark][1]
+        y_coords.append(diff_y * float(27 / ruler_length[i]))
+        length.append(np.sqrt(x_coords[-1]**2 + y_coords[-1]**2))
+
+    data = np.vstack([x_coords, y_coords])
     kde = gaussian_kde(data, bw_method='scott')
-    x_grid, y_grid = np.mgrid[np.min(x_diff)-1:np.max(x_diff)+1:100j, np.min(y_diff)-1:np.max(y_diff)+1:100j]
+    x_grid, y_grid = np.mgrid[np.min(x_coords)-1:np.max(x_coords)+1:100j, np.min(y_coords)-1:np.max(y_coords)+1:100j]
     positions = np.vstack([x_grid.ravel(), y_grid.ravel()])
     kde_values = np.reshape(kde(positions).T, x_grid.shape)
 
@@ -137,15 +134,13 @@ def main(output_xml, test_xml, landmark):
     cbar = plt.colorbar(contour, orientation='vertical')
     cbar.set_label('Density')
 
-    # Plot the original data points
-    angles_radians = np.arctan2(y_diff, x_diff)
-
-    # Step 3: Optionally convert angles to degrees
+    angles_radians = np.arctan2(y_coords, x_coords)
     angles = np.degrees(angles_radians)
     
     ax[0].scatter(0, 0)
-    ax[0].scatter(x_diff, y_diff, s=5, color='red', alpha=0.5)
-    ax[1].hist(landmark_error, bins = 10)
+    ax[0].scatter(x_coords, y_coords, s=5, color='red', alpha=0.5)
+    print(length)
+    ax[1].hist(length, bins = 10)
     ax_polar = plt.subplot(1, 3, 3, projection='polar')
 
     counts, bin_edges = np.histogram(angles)
